@@ -14,4 +14,4 @@ lines="${lines:0:1}${owner}${lines:1}"
 curl --header "Content-Type: application/json" \
   --request POST \
   --data "${lines}" \
-  http:///test.php
+  http://cherry.springr.in/api/github

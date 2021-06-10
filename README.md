@@ -1,2 +1,2 @@
-# cloc-action
-GitHub Action to Count Lines of Code with https://github.com/AlDanial/cloc
+# Springr Project Manager
+GitHub Action to manage Springr's projects, connected to cherry
