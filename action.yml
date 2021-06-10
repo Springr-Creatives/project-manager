@@ -1,0 +1,11 @@
+# action.yml
+name: 'Count Lines of Code (cloc)'
+description: 'Count Lines of Code for measurement'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+ 
+branding:
+  icon: 'code'  
+  color: 'orange'
